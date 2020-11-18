@@ -92,6 +92,11 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
+    @Override
+    protected boolean onPrepareOptionsPanel(View view, Menu menu) {
+        return super.onPrepareOptionsPanel(view, menu);
+    }
+
     private void addCandiesToDatabase(Candy[] candies) {
         SQLiteDatabase db = candyDbHelper.getWritableDatabase();
 
