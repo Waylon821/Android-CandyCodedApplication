@@ -11,14 +11,13 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_XL_API_27" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_XL_API_29" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -212,7 +211,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -226,6 +227,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="final stage" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="13" key="#app" timestamp="1605466973994">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="414" y="13" key="#app/0.0.1366.738@0.0.1366.738" timestamp="1605466973994" />
     <state x="478" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1601095042259">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -258,13 +263,15 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="174" y="6" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1601090884295" />
-    <state x="100" y="100" width="1146" height="528" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601088779049">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="100" y="96" width="1146" height="508" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1605471125258">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state x="100" y="96" width="1146" height="508" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.738@0.0.1366.738" timestamp="1605471125258" />
     <state x="100" y="100" width="1146" height="528" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.768@0.0.1366.768" timestamp="1601088779049" />
-    <state x="349" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601083345617">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="349" y="181" key="com.intellij.ide.util.TipDialog" timestamp="1605736408505">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state x="349" y="181" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1605736408505" />
     <state x="349" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1601083345617" />
   </component>
 </project>
